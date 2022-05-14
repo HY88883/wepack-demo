@@ -1,0 +1,9 @@
+$highlight-color: #F90;
+body{
+    .avatar{
+        background-color: $highlight-color;
+        width: 100px;
+        height: 100px;
+        transform: translate(50px,50px);
+    }
+}
